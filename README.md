@@ -62,7 +62,7 @@ To ensure the robot maintains its authentic persona (a friendly, 3D-printed educ
 
 
 
-> 🔗 \*\*Model Training Repository:\*\* The complete QLoRA fine-tuning pipeline, dataset formatting, Unsloth training scripts, and GGUF export instructions used to build the `smarrtino` model are available in the dedicated repository on my GitHub profile: \*\*\[SMARRtino Fine-Tuning Repository](https://github.com/YOUR\_USERNAME/Smarrtino\_llm)\*\* \*(replace with your exact repo link)\*.
+> 🔗 \*\*Model Training Repository:\*\* The complete QLoRA fine-tuning pipeline, dataset formatting, Unsloth training scripts, and GGUF export instructions used to build the `smarrtino` model are available in the dedicated repository on my GitHub profile: \*\*\[SMARRtino Fine-Tuning Repository](https://github.com/fra-cir06/Smarrtino_llm_FineTuning)\*\* 
 
 
 
