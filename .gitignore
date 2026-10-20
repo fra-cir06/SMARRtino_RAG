@@ -1,0 +1,40 @@
+# Python Virtual Environments
+myenv/
+venv/
+.venv/
+env/
+ENV/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# RAG Data, Uploaded PDFs, and Vector Database (FAISS)
+data/pdfs/*.pdf
+data/vectors/
+data/export_chunks.pdf
+chunks_export.txt
+*.faiss
+*.pkl
+
+# Keep the data folder structure
+!data/pdfs/.gitkeep
+!data/vectors/.gitkeep
+
+# Heavy AI Models / Weights
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Logs and Local Configurations
+*.log
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
