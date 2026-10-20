@@ -1,5 +1,3 @@
-cat << 'EOF' > README.md
-
 \# 🤖 SMARRtino RAG System - Local LLM \& Vector Database Architecture
 
 
@@ -255,6 +253,4 @@ Once you launch any of the application versions, the Flask server will start lis
 &#x20; \* `GET /get?msg=<your\_question>\&model=smarrtino` (Plain-text response)\[cite: 1, 5, 6]
 
 &#x20; \* `GET /json?query=<your\_question>\&model=smarrtino` (JSON response for ROS2 integration)\[cite: 1, 5, 6]
-
-EOF
 
